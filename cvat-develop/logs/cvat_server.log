@@ -1,0 +1,14 @@
+[2021-08-31 17:25:03,398] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-31 17:25:36,599] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-31 17:30:54,100] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-31 17:34:54,872] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-31 17:35:09,422] INFO django.server: "GET /admin/ HTTP/1.1" 302 0
+[2021-08-31 17:35:09,593] INFO django.server: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[2021-08-31 17:35:17,767] INFO django.server: "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2021-08-31 17:35:18,157] INFO django.server: "GET /admin/ HTTP/1.1" 200 8756
+[2021-08-31 17:35:50,054] INFO django.server: "GET /api/v1/users HTTP/1.1" 200 16652
+[2021-08-31 17:35:50,207] INFO django.server: "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[2021-08-31 17:36:02,231] INFO django.server: "GET /api/v1/ HTTP/1.1" 200 10894
+[2021-08-31 17:36:05,487] INFO django.server: "GET /api/v1/projects HTTP/1.1" 200 22731
+[2021-08-31 17:36:13,473] INFO django.server: "GET /api/v1/users/1 HTTP/1.1" 200 13889
+[2021-08-31 17:36:18,343] INFO django.server: "GET /api/v1/users/2 HTTP/1.1" 200 14089
