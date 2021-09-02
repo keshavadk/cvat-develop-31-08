@@ -1,3 +1,5 @@
 #ignoring for git upload
 
-/.env
+
+# D:\CVAT_intel\cvat-develop\.env
+# \.env

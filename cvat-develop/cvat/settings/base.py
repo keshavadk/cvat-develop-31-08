@@ -247,7 +247,8 @@ OLD_PASSWORD_FIELD_ENABLED = True
 RQ_QUEUES = {
     'default': {
         'HOST': 'localhost',
-        'PORT': 6379,
+        #'PORT': 6379,
+        'PORT': 7000,
         'DB': 0,
         'DEFAULT_TIMEOUT': '4h'
     },
